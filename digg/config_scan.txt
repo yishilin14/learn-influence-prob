@@ -1,0 +1,9 @@
+# Config file for learning paramters (Scan 1)
+
+phase : 1
+computeUserInf : 0
+graphFile : learn/graph_undir.txt
+actionsFile : learn/action_logs.txt
+outdir : learn 
+maxTuples : 0
+trainingActionsFile : learn/action_ids.txt
